@@ -83,7 +83,7 @@ export default function Hero() {
             style={{ y }}
             alt="Hero Building"
             className="w-full h-[120%] -top-[10%] object-cover grayscale-[30%] hover:grayscale-0 transition-all duration-700 relative"
-            src="/images/hero-building.png"
+            src="/Images/hero-building.png"
           />
           <div className="absolute inset-0 bg-gradient-to-t from-background/60 to-transparent pointer-events-none"></div>
         </motion.div>

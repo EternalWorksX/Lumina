@@ -17,7 +17,7 @@ export default function Marquee() {
                 <span className="font-display-sm text-display-sm text-on-surface-variant">
                   {item}
                 </span>
-                <span className="text-primary-container">•</span>
+                <span className="text-primary-container">&bull;</span>
               </div>
             ))}
           </div>
