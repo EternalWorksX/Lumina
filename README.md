@@ -17,9 +17,6 @@
   <img alt="Framer Motion" src="https://img.shields.io/badge/Framer_Motion-Micro_interactions-f2ca50?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <img src="docs/assets/lumina-preview.gif" alt="Animated Lumina homepage preview" width="920" />
-</p>
 
 ## Experience
 
