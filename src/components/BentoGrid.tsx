@@ -28,7 +28,7 @@ export default function BentoGrid() {
             <img
               alt="The Azure Coast Estate"
               className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110"
-              src="/images/azure-coast.png"
+              src="/Images/azure-coast.png"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-background/90 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 pointer-events-none"></div>
             <div className="absolute bottom-0 left-0 p-12 translate-y-8 opacity-0 group-hover:translate-y-0 group-hover:opacity-100 transition-all duration-500 pointer-events-none">
@@ -51,7 +51,7 @@ export default function BentoGrid() {
             <img
               alt="Skyline Penthouse"
               className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110"
-              src="/images/skyline-penthouse.png"
+              src="/Images/skyline-penthouse.png"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-background/90 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 pointer-events-none"></div>
             <div className="absolute bottom-0 left-0 p-8 translate-y-8 opacity-0 group-hover:translate-y-0 group-hover:opacity-100 transition-all duration-500 pointer-events-none">
@@ -73,7 +73,7 @@ export default function BentoGrid() {
             <img
               alt="Emerald Bay Villa"
               className="w-full h-full object-cover transition-transform duration-1000 group-hover:scale-110"
-              src="/images/emerald-bay.png"
+              src="/Images/emerald-bay.png"
             />
             <div className="absolute inset-0 bg-gradient-to-t from-background/90 via-transparent to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500 pointer-events-none"></div>
             <div className="absolute bottom-0 left-0 p-12 translate-y-8 opacity-0 group-hover:translate-y-0 group-hover:opacity-100 transition-all duration-500 w-full flex justify-between items-end pointer-events-none">

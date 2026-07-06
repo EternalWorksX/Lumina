@@ -12,15 +12,14 @@ export default function Testimonials() {
         <div className="mt-20 relative px-20">
           <FadeIn delay={0.2} className="transition-all duration-700 ease-in-out" id="testimonial-container">
             <blockquote className="font-display-sm text-display-sm leading-relaxed max-w-4xl mx-auto italic">
-              "Lumina didn't just build a house; they curated an experience. The
+              &ldquo;Lumina didn&apos;t just build a house; they curated an experience. The
               attention to detail is bordering on obsessive, which is exactly
-              what we required."
+              what we required.&rdquo;
             </blockquote>
             <cite className="block mt-10 font-label-caps text-label-caps text-primary not-italic tracking-widest">
-              — ALEXANDER VANCE, CEO OF NEXUS GLOBAL
+              - ALEXANDER VANCE, CEO OF NEXUS GLOBAL
             </cite>
           </FadeIn>
-
         </div>
       </div>
     </section>

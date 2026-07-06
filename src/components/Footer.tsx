@@ -7,7 +7,7 @@ export default function Footer() {
             LUMINA
           </div>
           <p className="font-body-md text-body-md text-on-surface-variant max-w-xs">
-            Crafting the world's most exclusive residential environments since
+            Crafting the world&apos;s most exclusive residential environments since
             2015.
           </p>
           <div className="mt-12 flex gap-4">
@@ -89,7 +89,7 @@ export default function Footer() {
         </div>
         <div className="col-span-12 mt-20 pt-12 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-8">
           <div className="font-label-caps text-[10px] text-on-surface-variant">
-            © {new Date().getFullYear()} LUMINA LUXURY BUILDERS. ALL RIGHTS RESERVED.
+            &copy; {new Date().getFullYear()} LUMINA LUXURY BUILDERS. ALL RIGHTS RESERVED.
           </div>
           <div className="font-display-lg text-display-lg uppercase tracking-tighter text-shimmer pointer-events-none select-none text-[8rem] md:text-[12rem] leading-none opacity-20">
             LUMINA
